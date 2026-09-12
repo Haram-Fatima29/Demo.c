@@ -1,2 +1,9 @@
 # Demo.c
-my first repo file
+Living area
+## It is lab
+### fifth lab
+**PF**
+*italic*
+***bold***
+***Author-Haram fatima.***
+
